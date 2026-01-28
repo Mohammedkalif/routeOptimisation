@@ -1,760 +1,518 @@
 {
     "bbox": [
-        77.272749,
-        11.398552,
-        78.159296,
-        11.660072
+        78.138577,
+        11.666448,
+        78.176286,
+        11.683792
     ],
     "routes": [
         {
             "summary": {
-                "distance": 114155.1,
-                "duration": 5820.5
+                "distance": 5350.5,
+                "duration": 374.8
             },
             "segments": [
                 {
-                    "distance": 114155.1,
-                    "duration": 5820.5,
+                    "distance": 5350.5,
+                    "duration": 374.8,
                     "steps": [
                         {
-                            "distance": 420.3,
-                            "duration": 75.7,
+                            "distance": 16.1,
+                            "duration": 3.9,
                             "type": 11,
-                            "instruction": "Head west",
-                            "name": "-",
-                            "way_points": [
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "distance": 252.1,
-                            "duration": 45.4,
-                            "type": 1,
-                            "instruction": "Turn right",
-                            "name": "-",
-                            "way_points": [
-                                2,
-                                3
-                            ]
-                        },
-                        {
-                            "distance": 548.5,
-                            "duration": 39.5,
-                            "type": 0,
-                            "instruction": "Turn left",
-                            "name": "-",
-                            "way_points": [
-                                3,
-                                7
-                            ]
-                        },
-                        {
-                            "distance": 2829.9,
-                            "duration": 169.8,
-                            "type": 0,
-                            "instruction": "Turn left onto Sathy - Periyakodivery - Kadambur Road, MDR679",
-                            "name": "Sathy - Periyakodivery - Kadambur Road, MDR679",
-                            "way_points": [
-                                7,
-                                36
-                            ]
-                        },
-                        {
-                            "distance": 2730.2,
-                            "duration": 209.6,
-                            "type": 1,
-                            "instruction": "Turn right onto Kodivery Dam Road, MDR175",
-                            "name": "Kodivery Dam Road, MDR175",
-                            "way_points": [
-                                36,
-                                88
-                            ]
-                        },
-                        {
-                            "distance": 6482.3,
-                            "duration": 371.6,
-                            "type": 0,
-                            "instruction": "Turn left onto Udhagamandalam - Kotagiri - Mettupalayam - Sathy - Gobi - Erode Road, SH15",
-                            "name": "Udhagamandalam - Kotagiri - Mettupalayam - Sathy - Gobi - Erode Road, SH15",
-                            "way_points": [
-                                88,
-                                138
-                            ]
-                        },
-                        {
-                            "distance": 32870.3,
-                            "duration": 1856.7,
-                            "type": 12,
-                            "instruction": "Keep left onto Udhagamandalam - Kotagiri - Mettupalayam - Sathy - Gobi - Erode Road, SH15",
-                            "name": "Udhagamandalam - Kotagiri - Mettupalayam - Sathy - Gobi - Erode Road, SH15",
-                            "way_points": [
-                                138,
-                                489
-                            ]
-                        },
-                        {
-                            "distance": 1028.7,
-                            "duration": 74.1,
-                            "type": 0,
-                            "instruction": "Turn left",
-                            "name": "-",
-                            "way_points": [
-                                489,
-                                498
-                            ]
-                        },
-                        {
-                            "distance": 15.8,
-                            "duration": 1.9,
-                            "type": 1,
-                            "instruction": "Turn right",
-                            "name": "-",
-                            "way_points": [
-                                498,
-                                499
-                            ]
-                        },
-                        {
-                            "distance": 60894.8,
-                            "duration": 2527.9,
-                            "type": 0,
-                            "instruction": "Turn left onto NH544",
-                            "name": "NH544",
-                            "way_points": [
-                                499,
-                                1040
-                            ]
-                        },
-                        {
-                            "distance": 760.1,
-                            "duration": 55.2,
-                            "type": 12,
-                            "instruction": "Keep left onto Overhead Flyover Ramp, NH544",
-                            "name": "Overhead Flyover Ramp, NH544",
-                            "way_points": [
-                                1040,
-                                1057
-                            ]
-                        },
-                        {
-                            "distance": 503.6,
-                            "duration": 49.6,
-                            "type": 12,
-                            "instruction": "Keep left",
-                            "name": "-",
-                            "way_points": [
-                                1057,
-                                1062
-                            ]
-                        },
-                        {
-                            "distance": 2395.7,
-                            "duration": 143.7,
-                            "type": 1,
-                            "instruction": "Turn right onto Siddhar Kovil Road, MDR421",
-                            "name": "Siddhar Kovil Road, MDR421",
-                            "way_points": [
-                                1062,
-                                1117
-                            ]
-                        },
-                        {
-                            "distance": 628.7,
-                            "duration": 50.3,
-                            "type": 12,
-                            "instruction": "Keep left",
-                            "name": "-",
-                            "way_points": [
-                                1117,
-                                1131
-                            ]
-                        },
-                        {
-                            "distance": 1626.6,
-                            "duration": 120.7,
-                            "type": 1,
-                            "instruction": "Turn right",
-                            "name": "-",
-                            "way_points": [
-                                1131,
-                                1156
-                            ]
-                        },
-                        {
-                            "distance": 70.1,
-                            "duration": 5.6,
-                            "type": 1,
-                            "instruction": "Turn right",
-                            "name": "-",
-                            "way_points": [
-                                1156,
-                                1159
-                            ]
-                        },
-                        {
-                            "distance": 97.4,
-                            "duration": 23.4,
-                            "type": 0,
-                            "instruction": "Turn left",
-                            "name": "-",
-                            "way_points": [
-                                1159,
-                                1161
-                            ]
-                        },
-                        {
-                            "distance": 0.0,
-                            "duration": 0.0,
-                            "type": 10,
-                            "instruction": "Arrive at your destination, on the right",
-                            "name": "-",
-                            "way_points": [
-                                1161,
-                                1161
-                            ]
-                        }
-                    ]
-                }
-            ],
-            "bbox": [
-                77.272749,
-                11.398552,
-                78.159296,
-                11.660072
-            ],
-            "geometry": "qodeAaatvMDvC|QSRlMrEZ~ARbL~AtFHHYbAyCvAkE^mAj@uCxB{GnDyJdByGfBaGj@eAXg@fAoBfEiEdAwCt@eCh@kA`GoEnBwA`K_FzCcDdCwAp@{Ax@gFAoCb@cEdA}BJq@F]C_@LEJIVk@RMXAnBPb@MVOTQZg@t@iADSCk@EcABWVcAPc@f@qA|ByFXm@JSRQLEPAH@HDJJBn@Hv@Zz@n@zAFDF@v@e@`Aw@bHiGfFcExAw@lE_ApD?|B[j@UzAcBzBcCrDaExF_HxHiI~B}BT]f@g@t@o@n@w@SsAAGu@wDGcS@sALaRKwHGwG?EZmWa@oI\\}I|@qP^}GLgHVuN?EHoEJkFFgC?S]gO`@wPCiF?a@C_FlBeU\\}FDS|@kFNcBb@iELgGPyIjAgD`CsBp@gBDgJ[yEk@uBcDuHQs@C_Ad@mG@{@EQ?_AIkBEI?KAeAKiADSSqCi@uFUmD_A}Hw@mFU{DZwPXmKd@}Ef@qGPuBHsDNuDdBwLDcEAeGHyFImCcBmHUoAa@}Bg@cGIoCDqCf@mKFo@z@oJG]`@{DDs@FiCCuBs@oMMyHAeDJaLN{Dr@uJNyCHgAT{Cb@oF@QVoCZoBXwAjBmI`AwEbC}JRoAJqAFcAj@cOH}BHiEEsJCqAG}EOsGAi@K_FCyE?iA?qAA{FA{@?i@CeBC_CAgAEeD?uAF{FHyCRkFToFBm@FwANqBZ{C~@sFp@_E|@eGVyB@OZkC\\sB~@wGNwAt@iKb@kE|@sGLqAJeBd@qIH}DBiDCaCAgA]}O?yDGwE?g@QgJKqIDsEJiEAgCImD@wAPiBNaAlCqNlAeIjAqHRuAlBiM@MNmAFs@D}AJwAXyBF[z@kDr@cDRaAz@aEJg@XyATkApA}GvCoLfBoJj@uCjAgEVs@Tq@fCgGhAmCvAyDXaA`BiF\\cApAsCbDoG|BwEvAkDlA}C~@mCPcAR{@f@oAdBiDr@cBNq@By@CkBBuADa@@ITo@~BgEXeAN}@PwBD}FDwCDsAN{AJc@Ji@XcA~D{JdBuGl@qD|@uEViAJYj@_BdAsBn@cAtDyGXe@pBuCjD{EvBmDp@kBj@}BRuARwBLsJDqBLwAV{A`@qAf@iAdA}AhDiEvB{Cj@sAb@{ANaAHcAv@aLXoD`@wCb@mCvAoIhAmG\\aBj@cCpAyFf@sCXeBLkAZuDd@iFn@sFDUNkAPkAr@yEH_@Vq@DMdAcCnBwDXQFGrBgCnBcCfCaDJU\\Qb@UpDiAb@Oz@c@z@i@lAgA`AeAjAcBdC}DbAeBt@oAL]Xs@b@eBV_Cd@ePVeMH{B^mGTgCL}DCqAKiBa@iL[eLQyEKkECwC@m@JoEp@yNr@oEn@gD^mCd@mEN{ARaENuHHsEHqL@iA@qCDuBRwCNqALeBPkANaA`AwFt@_CZy@pCiFjKoO^a@`AaAhC}Bj@q@r@iAr@kAvB{DbCqEpCuGPe@x@kBf@y@v@kAl@o@lAgA|DwDhCkD`FyHjEsHdAcCV{@\\iA^eB^eCjBoOv@wIRoFTqJLkFBuADaE?gAE}@UiCgA}IUwBY}DKo@c@eCMaAI{@CgABuAZkFDkALiG?]B{@AsDK_CEaCBoD\\qMH_BNeBR}Ad@{Br@gCjA_Df@kA_Aa@cEeC{A{A_Ay@eA{@_SoPgDmDmAwAU_@TSkAoB}A{CgPc]yA{CoAoCw@yBc@sAe@oBkBuI}CkNy@mCkAmCe@}@uAoBeAsAuAsAq@k@y@k@mBkAu@_@cCcAmBm@qB_@kC_@kAKa@Ag@@aAC{B@}G\\{DN[@gFZmAJ}Ex@wIpAmC`@}AT_BPkABiA?q@CsBWgBe@s@Wk@Yi@[e@_@o@g@eAmA]e@u@yAUo@a@uAWqBGy@AiA?cB^sH@QrCqh@L_CDgAAqEKuAWqBOq@eA{EaE_QgBoHgGmW_@iBeIs]mA}Ec@oAeAaCy@}Aw@kAyAcBuAmAkAeAwGwEaCgBaCyBiAqA_AmAw@kAkAyBo@wAw@aCKY}@oD]sBK_AWoDM_ECiBA{@?mBHaGA{CE{A]oFwBu[GcJAwAKuBYyCYwBSiBMqAImBu@o[g@{IWuDWqFIuE?mBBmCFuBLuCl@}I\\oFDeBA}AKwAQsAw@iD{B}G[kAs@yCKy@K_@gA}Ha@_CSw@]aAw@kBi@iAkCoFw@iBUs@i@qBQy@UcBGq@IeB?k@BwGBuHCcBEgAm@sICeBFgBHw@V}Af@}ATm@`BmDZ_AXgARqAJaADm@BeAIwBG{@YgBQu@Uq@q@{AeC{Ek@}@y@iAaD{DgAyAmAwBm@{AQk@]yAKm@QeBK_CGyGO}PAwDCq@AY_@cFa@yFCYQqDAuBB{@^eK?sB[cGOgEkBsLQwHBoTG}GM}SIiEk@cOO}DMgAa@yBe@gBe@wAaAeCk@gAeA_B{@iAu@y@iBaBmEmD_C{AqAs@kAi@iAe@wBs@w@UsDy@iIkBoH}AyD}@cBg@}Am@qAq@eAq@}@q@gAaAq@o@y@{@cBkCoAeCgI_RmByDmAqBoB_DwCuD}CgDuEwEwBuBuFyF_DkDwBkCka@ek@{@iAqA}A_IiIg@o@sDyE}BoDS_@_EqHcE_I}@yBg@}A]qAWiAO_AWiBQiBy@wKEs@yFkw@McBkAcPyA{SE{@CaCDwCrAsSpDwj@ReDzDum@J_B@kF?]AUAe@SwDKu@Iq@Q{@k@yB}DiLaAaC_N{V}FmKm@}@kAwA{AwAcScPmBiB{A_BeO_PoBoBcHkGsAuA{NwQqBmCkC{DyCyDeDcEuB}CkDiGqB{Cy@wA{MsXyCmG}@aCqEmPOg@e@cBgEwOy@uCa@iAk@oAu@uAsHcNs@wA]o@yAeCiFoJc@u@uI{NOWuAqCoE_JsB_Es@kA]k@qA{Am@m@sAiAOM]SeBaAgJ_EaBw@qAy@c@a@aAkAa@s@[s@a@mAMm@Iq@KuA?y@@w@LuBT}DH_CC_DEiAWwCc@eCm@}Bo@oBcIkRcEyJoJaXoBeFaAcCiAuCc@kAmEkLUk@sFaOy@wCsA{F[qAg@{BwA_GqAsE_BuEWgA[aBwAoMO}@w@uDWgAcCcK_@uAg@}Ae@eAmAaCsImNsB_EuO_\\wCyG_ByEcCaIiFiPSo@{@iCaFeRgAiEaAmDkC}GaImSqD{GyBmDyBoDcD}FgBkCqDoGkC_EgB_CgFsGcIuJ{AoB}M}To@kA_CmDiC_Eu@qAm@uAa@aAc@qAIYoBiF{CwIkCoHQe@_AkCm@yAwLgYo@aBmD_Ls@kBiA}BkDmFu@uAy@kBgAaD_BuEkBmGaAgDsEaNyF}Q_BiFeA_DoD_J}@wBc@iAoC}GaAiB_B{Co@_A_BsBkA_Bq@iAo@oAaDiHiAwCk@aBkA_FwBmIw@sCkBaG[aAq@cB}BqEcAeBaAsAeAmAqGmGu@o@{@}@oEoEmAyAy@eAmAoBgA_BkByCaB_C{FkIe@o@o@u@o@m@cAy@eDyBeA_Aa@a@c@i@u@cAg@y@m@kA}AgD{AaDeAqB}@sA}AqBiAiAeBqA}CiBy@[{@[gDcAaD{@eJcCg\\yI[K_AUqC{@mBw@iBkAe@_@u@q@aBmBeAaBo@uAsFyNgAsC]s@gAkB{@oA}AgBe@e@u@q@y@q@cAq@mBgAeAe@iDoAoA[eB[oAQWCu@IoCMcICkD@yNIaE@aEV}@@kCEk@ISGe@SSMo@u@a@q@eBiDg@q@i@_@YMo@Oo@IwE[i@Um@L{@EyAE_CK_Qk@c@gAK_@]uDK_@WUOIaCgAUSWg@E]M_DF_ANkAYmBQ{BEUQ{@U_A}@cCeAmCQg@qAqC[{@HkADkBAiB?SK}@E_@EUFwBD}@Di@Ju@Nw@TuAJm@LwA@qBOaBOw@Kc@KeA?eAR}AXm@X}@@s@iAwCBqBLmB`@yAt@gB\\gAAmAISOQOIk@Gq@NK?GEK]wBsKU_A[u@aBmCi@aAaAqB|@WDK?Q?Gi@{AQg@q@UgBCuATw@iCcAqDW}@k@yBeBwGeAwDkAmESs@yAwEc@oBU{@oEcPIc@Eu@A_A@KF?fAEl@GB_BVoA",
-            "way_points": [
-                0,
-                1161
-            ]
-        },
-        {
-            "summary": {
-                "distance": 113859.9,
-                "duration": 5825.5
-            },
-            "segments": [
-                {
-                    "distance": 113859.9,
-                    "duration": 5825.5,
-                    "steps": [
-                        {
-                            "distance": 173.6,
-                            "duration": 31.2,
-                            "type": 11,
-                            "instruction": "Head east",
-                            "name": "-",
+                            "instruction": "Head east on Second Street Ramanathapuram",
+                            "name": "Second Street Ramanathapuram",
                             "way_points": [
                                 0,
                                 1
                             ]
                         },
                         {
-                            "distance": 389.2,
-                            "duration": 70.0,
-                            "type": 0,
-                            "instruction": "Turn left",
+                            "distance": 426.9,
+                            "duration": 30.7,
+                            "type": 1,
+                            "instruction": "Turn right",
                             "name": "-",
                             "way_points": [
                                 1,
-                                3
+                                16
                             ]
                         },
                         {
-                            "distance": 49199.6,
-                            "duration": 2754.9,
-                            "type": 3,
-                            "instruction": "Turn sharp right onto Sathy - Athani - Bhavani Road, SH82",
-                            "name": "Sathy - Athani - Bhavani Road, SH82",
+                            "distance": 1649.0,
+                            "duration": 103.9,
+                            "type": 4,
+                            "instruction": "Turn slight left onto Hasthampatti - Kannankurichi Road, MDR842",
+                            "name": "Hasthampatti - Kannankurichi Road, MDR842",
                             "way_points": [
-                                3,
-                                462
+                                16,
+                                55
                             ]
                         },
                         {
-                            "distance": 167.9,
-                            "duration": 13.4,
-                            "type": 1,
-                            "instruction": "Turn right onto Bhavani - Chellampalayam Road, MDR765",
-                            "name": "Bhavani - Chellampalayam Road, MDR765",
-                            "way_points": [
-                                462,
-                                464
-                            ]
-                        },
-                        {
-                            "distance": 193.9,
-                            "duration": 8.2,
-                            "type": 2,
-                            "instruction": "Turn sharp left onto Thoppur - Mettur - Bhavani - Erode Road, NH544H",
-                            "name": "Thoppur - Mettur - Bhavani - Erode Road, NH544H",
-                            "way_points": [
-                                464,
-                                472
-                            ]
-                        },
-                        {
-                            "distance": 733.7,
-                            "duration": 31.1,
-                            "type": 6,
-                            "instruction": "Continue straight onto Erode - Bhavani - Mettur - Thoppur Road, NH544H",
-                            "name": "Erode - Bhavani - Mettur - Thoppur Road, NH544H",
-                            "way_points": [
-                                472,
-                                488
-                            ]
-                        },
-                        {
-                            "distance": 869.7,
-                            "duration": 63.8,
-                            "type": 1,
-                            "instruction": "Turn right",
-                            "name": "-",
-                            "way_points": [
-                                488,
-                                494
-                            ]
-                        },
-                        {
-                            "distance": 1018.3,
-                            "duration": 63.8,
-                            "type": 1,
-                            "instruction": "Turn right onto Magudanchavadi - Edappadi - Komarapalayam Road, SH221",
-                            "name": "Magudanchavadi - Edappadi - Komarapalayam Road, SH221",
-                            "way_points": [
-                                494,
-                                525
-                            ]
-                        },
-                        {
-                            "distance": 831.3,
-                            "duration": 51.3,
+                            "distance": 20.3,
+                            "duration": 2.9,
                             "type": 0,
-                            "instruction": "Turn left onto Salem - Cochin - Kanniyakumari Road (Old NH47), SHU22",
-                            "name": "Salem - Cochin - Kanniyakumari Road (Old NH47), SHU22",
+                            "instruction": "Turn left onto Hasthampatti Roundabout, SH188",
+                            "name": "Hasthampatti Roundabout, SH188",
                             "way_points": [
-                                525,
-                                544
+                                55,
+                                58
                             ]
                         },
                         {
-                            "distance": 951.3,
-                            "duration": 67.9,
-                            "type": 1,
-                            "instruction": "Turn right onto Tiruchengode - Komarapalayam Road, MDR726",
-                            "name": "Tiruchengode - Komarapalayam Road, MDR726",
+                            "distance": 7.2,
+                            "duration": 1.0,
+                            "type": 5,
+                            "instruction": "Turn slight right onto Hasthampatti Roundabout, SH188",
+                            "name": "Hasthampatti Roundabout, SH188",
                             "way_points": [
-                                544,
-                                567
+                                58,
+                                59
                             ]
                         },
                         {
-                            "distance": 53249.4,
-                            "duration": 2221.4,
+                            "distance": 648.3,
+                            "duration": 42.4,
+                            "type": 12,
+                            "instruction": "Keep left onto SH188",
+                            "name": "SH188",
+                            "way_points": [
+                                59,
+                                71
+                            ]
+                        },
+                        {
+                            "distance": 1302.8,
+                            "duration": 86.7,
+                            "type": 13,
+                            "instruction": "Keep right onto Puratchi Thalaivi Jayalalithaa Two Tier Flyover",
+                            "name": "Puratchi Thalaivi Jayalalithaa Two Tier Flyover",
+                            "way_points": [
+                                71,
+                                83
+                            ]
+                        },
+                        {
+                            "distance": 1199.9,
+                            "duration": 96.0,
                             "type": 0,
-                            "instruction": "Turn left onto NH544",
-                            "name": "NH544",
+                            "instruction": "Turn left onto Advaita Ashram Road",
+                            "name": "Advaita Ashram Road",
                             "way_points": [
-                                567,
-                                1033
+                                83,
+                                112
                             ]
                         },
                         {
-                            "distance": 760.1,
-                            "duration": 55.2,
-                            "type": 12,
-                            "instruction": "Keep left onto Overhead Flyover Ramp, NH544",
-                            "name": "Overhead Flyover Ramp, NH544",
-                            "way_points": [
-                                1033,
-                                1050
-                            ]
-                        },
-                        {
-                            "distance": 503.6,
-                            "duration": 49.6,
-                            "type": 12,
-                            "instruction": "Keep left",
-                            "name": "-",
-                            "way_points": [
-                                1050,
-                                1055
-                            ]
-                        },
-                        {
-                            "distance": 2395.7,
-                            "duration": 143.7,
+                            "distance": 79.9,
+                            "duration": 7.2,
                             "type": 1,
-                            "instruction": "Turn right onto Siddhar Kovil Road, MDR421",
-                            "name": "Siddhar Kovil Road, MDR421",
+                            "instruction": "Turn right onto Bus Lane",
+                            "name": "Bus Lane",
                             "way_points": [
-                                1055,
-                                1110
-                            ]
-                        },
-                        {
-                            "distance": 628.7,
-                            "duration": 50.3,
-                            "type": 12,
-                            "instruction": "Keep left",
-                            "name": "-",
-                            "way_points": [
-                                1110,
-                                1124
-                            ]
-                        },
-                        {
-                            "distance": 1626.6,
-                            "duration": 120.7,
-                            "type": 1,
-                            "instruction": "Turn right",
-                            "name": "-",
-                            "way_points": [
-                                1124,
-                                1149
-                            ]
-                        },
-                        {
-                            "distance": 70.1,
-                            "duration": 5.6,
-                            "type": 1,
-                            "instruction": "Turn right",
-                            "name": "-",
-                            "way_points": [
-                                1149,
-                                1152
-                            ]
-                        },
-                        {
-                            "distance": 97.4,
-                            "duration": 23.4,
-                            "type": 0,
-                            "instruction": "Turn left",
-                            "name": "-",
-                            "way_points": [
-                                1152,
-                                1154
+                                112,
+                                113
                             ]
                         },
                         {
                             "distance": 0.0,
                             "duration": 0.0,
                             "type": 10,
-                            "instruction": "Arrive at your destination, on the right",
+                            "instruction": "Arrive at Bus Lane, on the left",
                             "name": "-",
                             "way_points": [
-                                1154,
-                                1154
+                                113,
+                                113
                             ]
                         }
                     ]
                 }
             ],
             "bbox": [
-                77.276494,
-                11.437235,
-                78.159296,
-                11.660072
+                78.138577,
+                11.667904,
+                78.176286,
+                11.683792
             ],
-            "geometry": "qodeAaatvMM_I}EJ}MVpA}Hb@cGEmPb@oF`@gFhCaHN_@NSvFaIrBqGl@_SBw@GyAA_B?o@@s@`@oELyBJ{CFgFB_A?m@A}@Ca@OgCSiDGmBMcDFmE^eHZsCHm@RiBJmKKcEEsB_AoGYqDBoAFgBLaFD{AHkCi@wRAg@r@eVt@yJ|@yLFiVYqF_B{Zi@gQe@iGO}AMyDIyEGaDIgMUqDe@kAkJaNyFaJwDkGqJyPgHoLi@eAIO{CsGsAaDeAcDaA_Em@}BUy@IgABqARaB?SB_AEoAUuBC}EC}RD}NLcNLuFHcFNoEXuFHkCVmGb@{IDgDNoEBmD?yCA}B?o@AaNQcECkABKLk@dAcDbAmC`AuBd@qAXw@XeBLcBSu@yBqBeAoBi@wAU_BWiCM{FKgDJ_GY{Ea@yFw@_I_AeEm@gBo@eAyA}@uBaAyCkBcAcAWk@g@kAu@oCOs@mBqIeAiCQcBO{BY}C]}CGeAEcAEaBIqBc@oFEwA@uMEoCIqAsAmEaCmGiCoJc@iCi@_Ew@eHGmAAeAJaDEy@a@yCMe@Yo@gBsCwB_EaB_ECGGk@EgAAaH?mACu@Es@H_B`@_C|@iGPwAHk@?w@w@kMSyE[{G?y@A[h@uA`AwB~@eDv@_CBOVaAx@sCJ]Z}@dBcGt@{BPk@?k@Gi@Qm@Qk@q@{ByAmG{@wG[yAIq@@]s@eFG{@AiGOmGK}Bo@wFa@sEMsCGaCE]]oDcAuGe@qDYeB]uCWkEEmEGkBGgAQaA]k@o@y@c@s@_@s@Wy@WcA_AuEg@sAO]k@kA_@cAYaAOoAIaAS{@_@c@q@k@iAs@eBcAk@g@a@k@wAkCqA}BkCkFeC_E_HaKm@s@y@gAe@s@gCwFOa@E[AYJoCTwBFw@@s@Ee@Oy@q@mDk@gDa@gDMqAMoDCiBBaAN{Ab@wDRuA`@aBb@sAFg@EgBIiBQiAWkAKu@Ba@Ru@pAqDbEqJnEuIr@qBn@sBrAcEdA_Eb@mBZaBRwAJuB~@cPDqCIcFC}CO{CQmBOmAuB{Dk@oAQ}@Ae@?}CBmBG_Ba@_DFe@FmBH{A\\oArBoDtA}AtAiAv@g@^UdCoAzBqA`HsEdB_AvCsArCaAfC_ArCeBrC}AhBg@bAUvGg@pCi@xEiBt@_@dAm@`B}AfBmBhC{ClCcDbB_C~B}DbBqDzAsDfBcD~FgJtByDVo@pAsCnBaErDoE`K_NvA_CjYie@tKsK`DaDlCeDxDwE|NqI~AcBpHaI`@s@\\m@hAo@zDk@jH}AnCmEf@cOBId@qA`AoC~IoEXa@tKcMxBsDfEmNzAgFLc@DMnSar@x@sCfImUvCmIbHeP|CwNfCqLx@_Qf@aCfGmZLiC@aAKgEB}@`BsZFwANmGL}B^uEL_EBcCEkAOkAa@wEk@cC]}A}@yDm@gCOaA_@eBo@{CiC}LmAwF}@eEGWgAaF]}AuDaQqEsFkAcFF{FR}OX{A`BgIj@}At@oBvAaCHOtEuI`HsOjK_k@zKoc@hFwSXsAXyAlA_Gx@aEz@gETeALq@dAgFdCwLn@kCdDwHDMbBgDFM`BgDx@qB|AkDr@wA\\g@t@m@XMXKrLeEr@W~Ak@lBs@`B_Ax@e@vBaB|@o@jFh@|@BEML}C?IAGGKMIy@[w@a@WKeB{@c@SgD}AaAc@k@W[Us@e@eAs@iA{@oAaAwBqA}BwA[QiAo@KKfBoFXs@hAiBVq@bJsVhBaFbAFxAPJ@h@FzAXx@LpAR|@Hd@Bb@@xAENAv@On@Cz@D~@FlA@\\@F?V@b@DVDXNrBnAxAz@RH|@N|AXr@NhARhBV?]CKGkAGc@Ge@q@kCe@aC[oBOkAM_AAO[iDEcAI}AKmBC[IcAKqAOoCFA\\KjAs@VSdCiFZg@~@cB|@_Br@mAhBsCj@y@p@aALUx@mAf@s@DE~@uAHK\\a@b@i@V]z@iARWeAaCy@}Aw@kAyAcBuAmAkAeAwGwEaCgBaCyBiAqA_AmAw@kAkAyBo@wAw@aCKY}@oD]sBK_AWoDM_ECiBA{@?mBHaGA{CE{A]oFwBu[GcJAwAKuBYyCYwBSiBMqAImBu@o[g@{IWuDWqFIuE?mBBmCFuBLuCl@}I\\oFDeBA}AKwAQsAw@iD{B}G[kAs@yCKy@K_@gA}Ha@_CSw@]aAw@kBi@iAkCoFw@iBUs@i@qBQy@UcBGq@IeB?k@BwGBuHCcBEgAm@sICeBFgBHw@V}Af@}ATm@`BmDZ_AXgARqAJaADm@BeAIwBG{@YgBQu@Uq@q@{AeC{Ek@}@y@iAaD{DgAyAmAwBm@{AQk@]yAKm@QeBK_CGyGO}PAwDCq@AY_@cFa@yFCYQqDAuBB{@^eK?sB[cGOgEkBsLQwHBoTG}GM}SIiEk@cOO}DMgAa@yBe@gBe@wAaAeCk@gAeA_B{@iAu@y@iBaBmEmD_C{AqAs@kAi@iAe@wBs@w@UsDy@iIkBoH}AyD}@cBg@}Am@qAq@eAq@}@q@gAaAq@o@y@{@cBkCoAeCgI_RmByDmAqBoB_DwCuD}CgDuEwEwBuBuFyF_DkDwBkCka@ek@{@iAqA}A_IiIg@o@sDyE}BoDS_@_EqHcE_I}@yBg@}A]qAWiAO_AWiBQiBy@wKEs@yFkw@McBkAcPyA{SE{@CaCDwCrAsSpDwj@ReDzDum@J_B@kF?]AUAe@SwDKu@Iq@Q{@k@yB}DiLaAaC_N{V}FmKm@}@kAwA{AwAcScPmBiB{A_BeO_PoBoBcHkGsAuA{NwQqBmCkC{DyCyDeDcEuB}CkDiGqB{Cy@wA{MsXyCmG}@aCqEmPOg@e@cBgEwOy@uCa@iAk@oAu@uAsHcNs@wA]o@yAeCiFoJc@u@uI{NOWuAqCoE_JsB_Es@kA]k@qA{Am@m@sAiAOM]SeBaAgJ_EaBw@qAy@c@a@aAkAa@s@[s@a@mAMm@Iq@KuA?y@@w@LuBT}DH_CC_DEiAWwCc@eCm@}Bo@oBcIkRcEyJoJaXoBeFaAcCiAuCc@kAmEkLUk@sFaOy@wCsA{F[qAg@{BwA_GqAsE_BuEWgA[aBwAoMO}@w@uDWgAcCcK_@uAg@}Ae@eAmAaCsImNsB_EuO_\\wCyG_ByEcCaIiFiPSo@{@iCaFeRgAiEaAmDkC}GaImSqD{GyBmDyBoDcD}FgBkCqDoGkC_EgB_CgFsGcIuJ{AoB}M}To@kA_CmDiC_Eu@qAm@uAa@aAc@qAIYoBiF{CwIkCoHQe@_AkCm@yAwLgYo@aBmD_Ls@kBiA}BkDmFu@uAy@kBgAaD_BuEkBmGaAgDsEaNyF}Q_BiFeA_DoD_J}@wBc@iAoC}GaAiB_B{Co@_A_BsBkA_Bq@iAo@oAaDiHiAwCk@aBkA_FwBmIw@sCkBaG[aAq@cB}BqEcAeBaAsAeAmAqGmGu@o@{@}@oEoEmAyAy@eAmAoBgA_BkByCaB_C{FkIe@o@o@u@o@m@cAy@eDyBeA_Aa@a@c@i@u@cAg@y@m@kA}AgD{AaDeAqB}@sA}AqBiAiAeBqA}CiBy@[{@[gDcAaD{@eJcCg\\yI[K_AUqC{@mBw@iBkAe@_@u@q@aBmBeAaBo@uAsFyNgAsC]s@gAkB{@oA}AgBe@e@u@q@y@q@cAq@mBgAeAe@iDoAoA[eB[oAQWCu@IoCMcICkD@yNIaE@aEV}@@kCEk@ISGe@SSMo@u@a@q@eBiDg@q@i@_@YMo@Oo@IwE[i@Um@L{@EyAE_CK_Qk@c@gAK_@]uDK_@WUOIaCgAUSWg@E]M_DF_ANkAYmBQ{BEUQ{@U_A}@cCeAmCQg@qAqC[{@HkADkBAiB?SK}@E_@EUFwBD}@Di@Ju@Nw@TuAJm@LwA@qBOaBOw@Kc@KeA?eAR}AXm@X}@@s@iAwCBqBLmB`@yAt@gB\\gAAmAISOQOIk@Gq@NK?GEK]wBsKU_A[u@aBmCi@aAaAqB|@WDK?Q?Gi@{AQg@q@UgBCuATw@iCcAqDW}@k@yBeBwGeAwDkAmESs@yAwEc@oBU{@oEcPIc@Eu@A_A@KF?fAEl@GB_BVoA",
+            "geometry": "u~hfA}wc|MH[|@d@xAt@`@VNHb@XLJZXRTVXb@j@\\v@n@hABHJ\\RvBhAnBL^Rn@p@`C^rBXlAf@zA|@jBf@|@~AfBf@d@LVZr@Fp@FzAAhCCVEt@AJlArEf@pAt@lAn@x@b@h@PNr@l@HFt@`ANRLNl@zARv@Rt@~@nDNj@PbAPtAHrA?TFBDJCLIFg@jCcAfGEb@G`B@Z@LR|DFlAFpA?x@AxBC|@IX[bI_@bLOnBq@|D_CpLM|@Q|B@x@`A|LHr@PbBzBPfAD|@A~@@N?dBHtBJhBD@?xAL^D~C~@`AVx@RtAPtARrEv@b@DRDf@RzE`DVVJXB^CVIRUNKP}@xAoB{A",
             "way_points": [
                 0,
-                1154
+                113
             ]
         },
         {
             "summary": {
-                "distance": 113962.9,
-                "duration": 5851.7
+                "distance": 5678.8,
+                "duration": 423.3
             },
             "segments": [
                 {
-                    "distance": 113962.9,
-                    "duration": 5851.7,
+                    "distance": 5678.8,
+                    "duration": 423.3,
                     "steps": [
                         {
-                            "distance": 173.6,
-                            "duration": 31.2,
+                            "distance": 16.1,
+                            "duration": 3.9,
                             "type": 11,
-                            "instruction": "Head east",
-                            "name": "-",
+                            "instruction": "Head east on Second Street Ramanathapuram",
+                            "name": "Second Street Ramanathapuram",
                             "way_points": [
                                 0,
                                 1
                             ]
                         },
                         {
-                            "distance": 389.2,
-                            "duration": 70.0,
-                            "type": 0,
-                            "instruction": "Turn left",
+                            "distance": 426.9,
+                            "duration": 30.7,
+                            "type": 1,
+                            "instruction": "Turn right",
                             "name": "-",
                             "way_points": [
                                 1,
-                                3
+                                16
                             ]
                         },
                         {
-                            "distance": 2691.1,
-                            "duration": 154.0,
-                            "type": 3,
-                            "instruction": "Turn sharp right onto Sathy - Athani - Bhavani Road, SH82",
-                            "name": "Sathy - Athani - Bhavani Road, SH82",
+                            "distance": 1649.0,
+                            "duration": 103.9,
+                            "type": 4,
+                            "instruction": "Turn slight left onto Hasthampatti - Kannankurichi Road, MDR842",
+                            "name": "Hasthampatti - Kannankurichi Road, MDR842",
                             "way_points": [
-                                3,
-                                29
+                                16,
+                                55
                             ]
                         },
                         {
-                            "distance": 53.4,
-                            "duration": 3.2,
+                            "distance": 20.3,
+                            "duration": 2.9,
                             "type": 0,
-                            "instruction": "Turn left onto Sathy - Periyakodivery - Kadambur Road, MDR679",
-                            "name": "Sathy - Periyakodivery - Kadambur Road, MDR679",
+                            "instruction": "Turn left onto Hasthampatti Roundabout, SH188",
+                            "name": "Hasthampatti Roundabout, SH188",
                             "way_points": [
-                                29,
-                                30
+                                55,
+                                58
                             ]
                         },
                         {
-                            "distance": 65.6,
-                            "duration": 15.7,
-                            "type": 1,
-                            "instruction": "Turn right",
-                            "name": "-",
-                            "way_points": [
-                                30,
-                                31
-                            ]
-                        },
-                        {
-                            "distance": 44.3,
-                            "duration": 10.6,
-                            "type": 1,
-                            "instruction": "Turn right",
-                            "name": "-",
-                            "way_points": [
-                                31,
-                                32
-                            ]
-                        },
-                        {
-                            "distance": 46448.2,
-                            "duration": 2597.6,
+                            "distance": 542.7,
+                            "duration": 32.6,
                             "type": 0,
-                            "instruction": "Turn left onto Sathy - Athani - Bhavani Road, SH82",
-                            "name": "Sathy - Athani - Bhavani Road, SH82",
+                            "instruction": "Turn left onto Hasthampatty - Cherry Road, SHU18",
+                            "name": "Hasthampatty - Cherry Road, SHU18",
                             "way_points": [
-                                32,
-                                464
+                                58,
+                                70
                             ]
                         },
                         {
-                            "distance": 167.9,
-                            "duration": 13.4,
+                            "distance": 738.4,
+                            "duration": 59.1,
                             "type": 1,
-                            "instruction": "Turn right onto Bhavani - Chellampalayam Road, MDR765",
-                            "name": "Bhavani - Chellampalayam Road, MDR765",
+                            "instruction": "Turn right onto Gandhi Road",
+                            "name": "Gandhi Road",
                             "way_points": [
-                                464,
-                                466
+                                70,
+                                90
                             ]
                         },
                         {
-                            "distance": 193.9,
-                            "duration": 8.2,
-                            "type": 2,
-                            "instruction": "Turn sharp left onto Thoppur - Mettur - Bhavani - Erode Road, NH544H",
-                            "name": "Thoppur - Mettur - Bhavani - Erode Road, NH544H",
-                            "way_points": [
-                                466,
-                                474
-                            ]
-                        },
-                        {
-                            "distance": 733.7,
-                            "duration": 31.1,
-                            "type": 6,
-                            "instruction": "Continue straight onto Erode - Bhavani - Mettur - Thoppur Road, NH544H",
-                            "name": "Erode - Bhavani - Mettur - Thoppur Road, NH544H",
-                            "way_points": [
-                                474,
-                                490
-                            ]
-                        },
-                        {
-                            "distance": 869.7,
-                            "duration": 63.8,
-                            "type": 1,
-                            "instruction": "Turn right",
-                            "name": "-",
-                            "way_points": [
-                                490,
-                                496
-                            ]
-                        },
-                        {
-                            "distance": 1018.3,
-                            "duration": 63.8,
-                            "type": 1,
-                            "instruction": "Turn right onto Magudanchavadi - Edappadi - Komarapalayam Road, SH221",
-                            "name": "Magudanchavadi - Edappadi - Komarapalayam Road, SH221",
-                            "way_points": [
-                                496,
-                                527
-                            ]
-                        },
-                        {
-                            "distance": 831.3,
-                            "duration": 51.3,
-                            "type": 0,
-                            "instruction": "Turn left onto Salem - Cochin - Kanniyakumari Road (Old NH47), SHU22",
-                            "name": "Salem - Cochin - Kanniyakumari Road (Old NH47), SHU22",
-                            "way_points": [
-                                527,
-                                546
-                            ]
-                        },
-                        {
-                            "distance": 951.3,
-                            "duration": 67.9,
-                            "type": 1,
-                            "instruction": "Turn right onto Tiruchengode - Komarapalayam Road, MDR726",
-                            "name": "Tiruchengode - Komarapalayam Road, MDR726",
-                            "way_points": [
-                                546,
-                                569
-                            ]
-                        },
-                        {
-                            "distance": 53249.4,
-                            "duration": 2221.4,
-                            "type": 0,
-                            "instruction": "Turn left onto NH544",
-                            "name": "NH544",
-                            "way_points": [
-                                569,
-                                1035
-                            ]
-                        },
-                        {
-                            "distance": 760.1,
-                            "duration": 55.2,
-                            "type": 12,
-                            "instruction": "Keep left onto Overhead Flyover Ramp, NH544",
-                            "name": "Overhead Flyover Ramp, NH544",
-                            "way_points": [
-                                1035,
-                                1052
-                            ]
-                        },
-                        {
-                            "distance": 503.6,
-                            "duration": 49.6,
-                            "type": 12,
-                            "instruction": "Keep left",
-                            "name": "-",
-                            "way_points": [
-                                1052,
-                                1057
-                            ]
-                        },
-                        {
-                            "distance": 2395.7,
-                            "duration": 143.7,
-                            "type": 1,
-                            "instruction": "Turn right onto Siddhar Kovil Road, MDR421",
-                            "name": "Siddhar Kovil Road, MDR421",
-                            "way_points": [
-                                1057,
-                                1112
-                            ]
-                        },
-                        {
-                            "distance": 628.7,
-                            "duration": 50.3,
-                            "type": 12,
-                            "instruction": "Keep left",
-                            "name": "-",
-                            "way_points": [
-                                1112,
-                                1126
-                            ]
-                        },
-                        {
-                            "distance": 1626.6,
-                            "duration": 120.7,
-                            "type": 1,
-                            "instruction": "Turn right",
-                            "name": "-",
-                            "way_points": [
-                                1126,
-                                1151
-                            ]
-                        },
-                        {
-                            "distance": 70.1,
-                            "duration": 5.6,
-                            "type": 1,
-                            "instruction": "Turn right",
-                            "name": "-",
-                            "way_points": [
-                                1151,
-                                1154
-                            ]
-                        },
-                        {
-                            "distance": 97.4,
-                            "duration": 23.4,
+                            "distance": 230.8,
+                            "duration": 16.6,
                             "type": 0,
                             "instruction": "Turn left",
                             "name": "-",
                             "way_points": [
-                                1154,
-                                1156
+                                90,
+                                93
+                            ]
+                        },
+                        {
+                            "distance": 153.2,
+                            "duration": 18.4,
+                            "type": 1,
+                            "instruction": "Turn right",
+                            "name": "-",
+                            "way_points": [
+                                93,
+                                94
+                            ]
+                        },
+                        {
+                            "distance": 176.7,
+                            "duration": 21.2,
+                            "type": 0,
+                            "instruction": "Turn left",
+                            "name": "-",
+                            "way_points": [
+                                94,
+                                95
+                            ]
+                        },
+                        {
+                            "distance": 805.1,
+                            "duration": 66.8,
+                            "type": 3,
+                            "instruction": "Turn sharp right",
+                            "name": "-",
+                            "way_points": [
+                                95,
+                                117
+                            ]
+                        },
+                        {
+                            "distance": 487.6,
+                            "duration": 31.9,
+                            "type": 3,
+                            "instruction": "Turn sharp right onto Salem - Omalur Road, SH218",
+                            "name": "Salem - Omalur Road, SH218",
+                            "way_points": [
+                                117,
+                                123
+                            ]
+                        },
+                        {
+                            "distance": 352.0,
+                            "duration": 28.2,
+                            "type": 2,
+                            "instruction": "Turn sharp left",
+                            "name": "-",
+                            "way_points": [
+                                123,
+                                134
+                            ]
+                        },
+                        {
+                            "distance": 79.9,
+                            "duration": 7.2,
+                            "type": 1,
+                            "instruction": "Turn right onto Bus Lane",
+                            "name": "Bus Lane",
+                            "way_points": [
+                                134,
+                                135
                             ]
                         },
                         {
                             "distance": 0.0,
                             "duration": 0.0,
                             "type": 10,
-                            "instruction": "Arrive at your destination, on the right",
+                            "instruction": "Arrive at Bus Lane, on the left",
                             "name": "-",
                             "way_points": [
-                                1156,
-                                1156
+                                135,
+                                135
                             ]
                         }
                     ]
                 }
             ],
             "bbox": [
-                77.276494,
-                11.437235,
-                78.159296,
-                11.660072
+                78.138577,
+                11.666448,
+                78.176286,
+                11.683792
             ],
-            "geometry": "qodeAaatvMM_I}EJ}MVpA}Hb@cGEmPb@oF`@gFhCaHN_@NSvFaIrBqGl@_SBw@GyAA_B?o@@s@`@oELyBJ{CFgFB_A?m@A}@Ca@OgCSiD}ALDwBnACMcDFmE^eHZsCHm@RiBJmKKcEEsB_AoGYqDBoAFgBLaFD{AHkCi@wRAg@r@eVt@yJ|@yLFiVYqF_B{Zi@gQe@iGO}AMyDIyEGaDIgMUqDe@kAkJaNyFaJwDkGqJyPgHoLi@eAIO{CsGsAaDeAcDaA_Em@}BUy@IgABqARaB?SB_AEoAUuBC}EC}RD}NLcNLuFHcFNoEXuFHkCVmGb@{IDgDNoEBmD?yCA}B?o@AaNQcECkABKLk@dAcDbAmC`AuBd@qAXw@XeBLcBSu@yBqBeAoBi@wAU_BWiCM{FKgDJ_GY{Ea@yFw@_I_AeEm@gBo@eAyA}@uBaAyCkBcAcAWk@g@kAu@oCOs@mBqIeAiCQcBO{BY}C]}CGeAEcAEaBIqBc@oFEwA@uMEoCIqAsAmEaCmGiCoJc@iCi@_Ew@eHGmAAeAJaDEy@a@yCMe@Yo@gBsCwB_EaB_ECGGk@EgAAaH?mACu@Es@H_B`@_C|@iGPwAHk@?w@w@kMSyE[{G?y@A[h@uA`AwB~@eDv@_CBOVaAx@sCJ]Z}@dBcGt@{BPk@?k@Gi@Qm@Qk@q@{ByAmG{@wG[yAIq@@]s@eFG{@AiGOmGK}Bo@wFa@sEMsCGaCE]]oDcAuGe@qDYeB]uCWkEEmEGkBGgAQaA]k@o@y@c@s@_@s@Wy@WcA_AuEg@sAO]k@kA_@cAYaAOoAIaAS{@_@c@q@k@iAs@eBcAk@g@a@k@wAkCqA}BkCkFeC_E_HaKm@s@y@gAe@s@gCwFOa@E[AYJoCTwBFw@@s@Ee@Oy@q@mDk@gDa@gDMqAMoDCiBBaAN{Ab@wDRuA`@aBb@sAFg@EgBIiBQiAWkAKu@Ba@Ru@pAqDbEqJnEuIr@qBn@sBrAcEdA_Eb@mBZaBRwAJuB~@cPDqCIcFC}CO{CQmBOmAuB{Dk@oAQ}@Ae@?}CBmBG_Ba@_DFe@FmBH{A\\oArBoDtA}AtAiAv@g@^UdCoAzBqA`HsEdB_AvCsArCaAfC_ArCeBrC}AhBg@bAUvGg@pCi@xEiBt@_@dAm@`B}AfBmBhC{ClCcDbB_C~B}DbBqDzAsDfBcD~FgJtByDVo@pAsCnBaErDoE`K_NvA_CjYie@tKsK`DaDlCeDxDwE|NqI~AcBpHaI`@s@\\m@hAo@zDk@jH}AnCmEf@cOBId@qA`AoC~IoEXa@tKcMxBsDfEmNzAgFLc@DMnSar@x@sCfImUvCmIbHeP|CwNfCqLx@_Qf@aCfGmZLiC@aAKgEB}@`BsZFwANmGL}B^uEL_EBcCEkAOkAa@wEk@cC]}A}@yDm@gCOaA_@eBo@{CiC}LmAwF}@eEGWgAaF]}AuDaQqEsFkAcFF{FR}OX{A`BgIj@}At@oBvAaCHOtEuI`HsOjK_k@zKoc@hFwSXsAXyAlA_Gx@aEz@gETeALq@dAgFdCwLn@kCdDwHDMbBgDFM`BgDx@qB|AkDr@wA\\g@t@m@XMXKrLeEr@W~Ak@lBs@`B_Ax@e@vBaB|@o@jFh@|@BEML}C?IAGGKMIy@[w@a@WKeB{@c@SgD}AaAc@k@W[Us@e@eAs@iA{@oAaAwBqA}BwA[QiAo@KKfBoFXs@hAiBVq@bJsVhBaFbAFxAPJ@h@FzAXx@LpAR|@Hd@Bb@@xAENAv@On@Cz@D~@FlA@\\@F?V@b@DVDXNrBnAxAz@RH|@N|AXr@NhARhBV?]CKGkAGc@Ge@q@kCe@aC[oBOkAM_AAO[iDEcAI}AKmBC[IcAKqAOoCFA\\KjAs@VSdCiFZg@~@cB|@_Br@mAhBsCj@y@p@aALUx@mAf@s@DE~@uAHK\\a@b@i@V]z@iARWeAaCy@}Aw@kAyAcBuAmAkAeAwGwEaCgBaCyBiAqA_AmAw@kAkAyBo@wAw@aCKY}@oD]sBK_AWoDM_ECiBA{@?mBHaGA{CE{A]oFwBu[GcJAwAKuBYyCYwBSiBMqAImBu@o[g@{IWuDWqFIuE?mBBmCFuBLuCl@}I\\oFDeBA}AKwAQsAw@iD{B}G[kAs@yCKy@K_@gA}Ha@_CSw@]aAw@kBi@iAkCoFw@iBUs@i@qBQy@UcBGq@IeB?k@BwGBuHCcBEgAm@sICeBFgBHw@V}Af@}ATm@`BmDZ_AXgARqAJaADm@BeAIwBG{@YgBQu@Uq@q@{AeC{Ek@}@y@iAaD{DgAyAmAwBm@{AQk@]yAKm@QeBK_CGyGO}PAwDCq@AY_@cFa@yFCYQqDAuBB{@^eK?sB[cGOgEkBsLQwHBoTG}GM}SIiEk@cOO}DMgAa@yBe@gBe@wAaAeCk@gAeA_B{@iAu@y@iBaBmEmD_C{AqAs@kAi@iAe@wBs@w@UsDy@iIkBoH}AyD}@cBg@}Am@qAq@eAq@}@q@gAaAq@o@y@{@cBkCoAeCgI_RmByDmAqBoB_DwCuD}CgDuEwEwBuBuFyF_DkDwBkCka@ek@{@iAqA}A_IiIg@o@sDyE}BoDS_@_EqHcE_I}@yBg@}A]qAWiAO_AWiBQiBy@wKEs@yFkw@McBkAcPyA{SE{@CaCDwCrAsSpDwj@ReDzDum@J_B@kF?]AUAe@SwDKu@Iq@Q{@k@yB}DiLaAaC_N{V}FmKm@}@kAwA{AwAcScPmBiB{A_BeO_PoBoBcHkGsAuA{NwQqBmCkC{DyCyDeDcEuB}CkDiGqB{Cy@wA{MsXyCmG}@aCqEmPOg@e@cBgEwOy@uCa@iAk@oAu@uAsHcNs@wA]o@yAeCiFoJc@u@uI{NOWuAqCoE_JsB_Es@kA]k@qA{Am@m@sAiAOM]SeBaAgJ_EaBw@qAy@c@a@aAkAa@s@[s@a@mAMm@Iq@KuA?y@@w@LuBT}DH_CC_DEiAWwCc@eCm@}Bo@oBcIkRcEyJoJaXoBeFaAcCiAuCc@kAmEkLUk@sFaOy@wCsA{F[qAg@{BwA_GqAsE_BuEWgA[aBwAoMO}@w@uDWgAcCcK_@uAg@}Ae@eAmAaCsImNsB_EuO_\\wCyG_ByEcCaIiFiPSo@{@iCaFeRgAiEaAmDkC}GaImSqD{GyBmDyBoDcD}FgBkCqDoGkC_EgB_CgFsGcIuJ{AoB}M}To@kA_CmDiC_Eu@qAm@uAa@aAc@qAIYoBiF{CwIkCoHQe@_AkCm@yAwLgYo@aBmD_Ls@kBiA}BkDmFu@uAy@kBgAaD_BuEkBmGaAgDsEaNyF}Q_BiFeA_DoD_J}@wBc@iAoC}GaAiB_B{Co@_A_BsBkA_Bq@iAo@oAaDiHiAwCk@aBkA_FwBmIw@sCkBaG[aAq@cB}BqEcAeBaAsAeAmAqGmGu@o@{@}@oEoEmAyAy@eAmAoBgA_BkByCaB_C{FkIe@o@o@u@o@m@cAy@eDyBeA_Aa@a@c@i@u@cAg@y@m@kA}AgD{AaDeAqB}@sA}AqBiAiAeBqA}CiBy@[{@[gDcAaD{@eJcCg\\yI[K_AUqC{@mBw@iBkAe@_@u@q@aBmBeAaBo@uAsFyNgAsC]s@gAkB{@oA}AgBe@e@u@q@y@q@cAq@mBgAeAe@iDoAoA[eB[oAQWCu@IoCMcICkD@yNIaE@aEV}@@kCEk@ISGe@SSMo@u@a@q@eBiDg@q@i@_@YMo@Oo@IwE[i@Um@L{@EyAE_CK_Qk@c@gAK_@]uDK_@WUOIaCgAUSWg@E]M_DF_ANkAYmBQ{BEUQ{@U_A}@cCeAmCQg@qAqC[{@HkADkBAiB?SK}@E_@EUFwBD}@Di@Ju@Nw@TuAJm@LwA@qBOaBOw@Kc@KeA?eAR}AXm@X}@@s@iAwCBqBLmB`@yAt@gB\\gAAmAISOQOIk@Gq@NK?GEK]wBsKU_A[u@aBmCi@aAaAqB|@WDK?Q?Gi@{AQg@q@UgBCuATw@iCcAqDW}@k@yBeBwGeAwDkAmESs@yAwEc@oBU{@oEcPIc@Eu@A_A@KF?fAEl@GB_BVoA",
+            "geometry": "u~hfA}wc|MH[|@d@xAt@`@VNHb@XLJZXRTVXb@j@\\v@n@hABHJ\\RvBhAnBL^Rn@p@`C^rBXlAf@zA|@jBf@|@~AfBf@d@LVZr@Fp@FzAAhCCVEt@AJlArEf@pAt@lAn@x@b@h@PNr@l@HFt@`ANRLNl@zARv@Rt@~@nDNj@PbAPtAHrA?TFBDJCLjB|AvA~@n@X`Ab@b@P`@HxB\\|ANtBN~AHX@z@DCvA]rCAJ?~@AnA@d@@R@Ny@rD_@fBCJM`@EPQjAQhBI`AIrBIj@Mx@Gj@rCJbBJbD^qAjGhHrBq@hAUnAc@bBUdARh@TPK^IVEdBDb@NtAbA|@rAdB\\h@HB|@d@~A`@d@Pp@^l@PbBv@VJ_@h@{@z@yDpCeAx@{FzHILRDf@RzE`DVVJXB^CVIRUNKP}@xAoB{A",
             "way_points": [
                 0,
-                1156
+                135
+            ]
+        },
+        {
+            "summary": {
+                "distance": 5699.1,
+                "duration": 420.3
+            },
+            "segments": [
+                {
+                    "distance": 5699.1,
+                    "duration": 420.3,
+                    "steps": [
+                        {
+                            "distance": 16.1,
+                            "duration": 3.9,
+                            "type": 11,
+                            "instruction": "Head east on Second Street Ramanathapuram",
+                            "name": "Second Street Ramanathapuram",
+                            "way_points": [
+                                0,
+                                1
+                            ]
+                        },
+                        {
+                            "distance": 426.9,
+                            "duration": 30.7,
+                            "type": 1,
+                            "instruction": "Turn right",
+                            "name": "-",
+                            "way_points": [
+                                1,
+                                16
+                            ]
+                        },
+                        {
+                            "distance": 1649.0,
+                            "duration": 103.9,
+                            "type": 4,
+                            "instruction": "Turn slight left onto Hasthampatti - Kannankurichi Road, MDR842",
+                            "name": "Hasthampatti - Kannankurichi Road, MDR842",
+                            "way_points": [
+                                16,
+                                55
+                            ]
+                        },
+                        {
+                            "distance": 20.3,
+                            "duration": 2.9,
+                            "type": 0,
+                            "instruction": "Turn left onto Hasthampatti Roundabout, SH188",
+                            "name": "Hasthampatti Roundabout, SH188",
+                            "way_points": [
+                                55,
+                                58
+                            ]
+                        },
+                        {
+                            "distance": 7.2,
+                            "duration": 1.0,
+                            "type": 5,
+                            "instruction": "Turn slight right onto Hasthampatti Roundabout, SH188",
+                            "name": "Hasthampatti Roundabout, SH188",
+                            "way_points": [
+                                58,
+                                59
+                            ]
+                        },
+                        {
+                            "distance": 855.0,
+                            "duration": 56.0,
+                            "type": 12,
+                            "instruction": "Keep left onto SH188",
+                            "name": "SH188",
+                            "way_points": [
+                                59,
+                                72
+                            ]
+                        },
+                        {
+                            "distance": 669.9,
+                            "duration": 48.2,
+                            "type": 0,
+                            "instruction": "Turn left",
+                            "name": "-",
+                            "way_points": [
+                                72,
+                                83
+                            ]
+                        },
+                        {
+                            "distance": 153.2,
+                            "duration": 18.4,
+                            "type": 1,
+                            "instruction": "Turn right",
+                            "name": "-",
+                            "way_points": [
+                                83,
+                                84
+                            ]
+                        },
+                        {
+                            "distance": 176.7,
+                            "duration": 21.2,
+                            "type": 0,
+                            "instruction": "Turn left",
+                            "name": "-",
+                            "way_points": [
+                                84,
+                                85
+                            ]
+                        },
+                        {
+                            "distance": 805.1,
+                            "duration": 66.8,
+                            "type": 3,
+                            "instruction": "Turn sharp right",
+                            "name": "-",
+                            "way_points": [
+                                85,
+                                107
+                            ]
+                        },
+                        {
+                            "distance": 487.6,
+                            "duration": 31.9,
+                            "type": 3,
+                            "instruction": "Turn sharp right onto Salem - Omalur Road, SH218",
+                            "name": "Salem - Omalur Road, SH218",
+                            "way_points": [
+                                107,
+                                113
+                            ]
+                        },
+                        {
+                            "distance": 352.0,
+                            "duration": 28.2,
+                            "type": 2,
+                            "instruction": "Turn sharp left",
+                            "name": "-",
+                            "way_points": [
+                                113,
+                                124
+                            ]
+                        },
+                        {
+                            "distance": 79.9,
+                            "duration": 7.2,
+                            "type": 1,
+                            "instruction": "Turn right onto Bus Lane",
+                            "name": "Bus Lane",
+                            "way_points": [
+                                124,
+                                125
+                            ]
+                        },
+                        {
+                            "distance": 0.0,
+                            "duration": 0.0,
+                            "type": 10,
+                            "instruction": "Arrive at Bus Lane, on the left",
+                            "name": "-",
+                            "way_points": [
+                                125,
+                                125
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "bbox": [
+                78.138577,
+                11.666448,
+                78.176286,
+                11.683792
+            ],
+            "geometry": "u~hfA}wc|MH[|@d@xAt@`@VNHb@XLJZXRTVXb@j@\\v@n@hABHJ\\RvBhAnBL^Rn@p@`C^rBXlAf@zA|@jBf@|@~AfBf@d@LVZr@Fp@FzAAhCCVEt@AJlArEf@pAt@lAn@x@b@h@PNr@l@HFt@`ANRLNl@zARv@Rt@~@nDNj@PbAPtAHrA?TFBDJCLIFg@jCcAfGEb@G`B@Z@LR|DFlAFpA?x@AxBC|@UzJfEXx@FdABz@JjBTD@RBbGLrCJbBJbD^qAjGhHrBq@hAUnAc@bBUdARh@TPK^IVEdBDb@NtAbA|@rAdB\\h@HB|@d@~A`@d@Pp@^l@PbBv@VJ_@h@{@z@yDpCeAx@{FzHILRDf@RzE`DVVJXB^CVIRUNKP}@xAoB{A",
+            "way_points": [
+                0,
+                125
             ]
         }
     ],
     "metadata": {
         "attribution": "openrouteservice.org | OpenStreetMap contributors",
         "service": "routing",
-        "timestamp": 1769572116362,
+        "timestamp": 1769572793150,
         "query": {
             "coordinates": [
                 [
-                    77.27648723693109,
-                    11.497201492869667
+                    78.17611956533857,
+                    11.683720337350456
                 ],
                 [
-                    78.15923629719867,
-                    11.659103262290106
+                    78.13902764781922,
+                    11.669020198322118
                 ]
             ],
             "profile": "driving-car",
